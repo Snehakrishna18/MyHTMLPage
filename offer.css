@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+nav ul{
+    float: right;
+    margin-right: 80px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px;
+}
+button{
+    float: inherit;
+}
